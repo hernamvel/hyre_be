@@ -10,5 +10,3 @@ cket
 banana
 ac
 rocket
-
-

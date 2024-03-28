@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Improvements for the coding session:
 
-Things you may want to cover:
+* Logic moved from controller to service class
 
-* Ruby version
+* Endpoint 2 implemented
 
-* System dependencies
+* Tests using rspec
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
